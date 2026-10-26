@@ -2,7 +2,7 @@
 ; This is an Linux console program that writes a little triangle of asterisks to standard
 ; output. Runs on Linux only.
 ;
-;     nasm -felf64 triangle.asm && ld hola.o && ./a.out
+;     nasm -felf64 main.asm && ld main.o && ./a.out
 ; ----------------------------------------------------------------------------------------
 
           global    _start
