@@ -5,7 +5,7 @@
 - [Official NASM docs](https://www.nasm.us/doc/)
 - [x64AssemblyLessons](https://rubender353.github.io/x64AssemblyLessons/)
 - [NASM tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
-- [NASM on Linux tutorial](https://asmtutor.com/)
+- [NASM on Linux tutorial updatet to reflect x64](https://rubender353.github.io/x64AssemblyLessons/)
 
 ## Docs to learn FASM
 
